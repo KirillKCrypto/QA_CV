@@ -1,4 +1,4 @@
-# Hello!:hugs:
+# Hello!
 
 I'm Kirill Kapustin, QA Engineer/Software tester. Currently i have no commercial experience, but i learn more and more everyday.
 
